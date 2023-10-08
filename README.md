@@ -3,7 +3,7 @@
 <h3>mobile APP projects</h3>
 
 利用 <b>MIT APP INVENTOR</b> 來製作JAVA教學的簡易APP<br>
-主要著重在「判斷」的部分<br><br>
+主要著重在「條件判斷」的部分<br><br>
 
 <h3>設計內容</h3>
 1. 介紹關係運算子（==, <, >, !=, <=, >=）<br>
